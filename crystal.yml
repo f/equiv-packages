@@ -11,3 +11,8 @@ web_framework:
   - name: frost
     instructions: Please add `ysbaddaden/frost` to `shards.yml`
     recommended: true
+
+markdown:
+  - stdlib: true
+    instructions: Use `require "markdown"`
+    recommended: true
