@@ -4,3 +4,4 @@
 | -------- |
 | [Clojure](./clojure.yml) |
 | [Crystal](./crystal.yml) |
+| [Go](./go.yml) |
