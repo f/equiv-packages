@@ -11,6 +11,7 @@
 ## Concepts or Categories
 
 | Concept / Category | Equiv Name |
+| ------------------ | ---------- |
 | HTTP Client | `http_client` |
 | HTTP Server | `http_server` |
 | Markdown | `markdown` |
