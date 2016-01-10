@@ -1,0 +1,7 @@
+name: golang
+description: Go Language
+url: https://golang.org
+---
+http_client:
+  - name: gorequest
+    install: go get github.com/parnurzeal/gorequest
