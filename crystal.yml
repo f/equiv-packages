@@ -5,7 +5,9 @@ url: http://crystal-lang.org
 micro_web_framework:
   - name: kemal
     instructions: Please add `sdogruyol/kemal` to `shards.yml`
+    recommended: true
 
 web_framework:
   - name: frost
     instructions: Please add `ysbaddaden/frost` to `shards.yml`
+    recommended: true
