@@ -2,4 +2,5 @@
 
 | Language |
 | -------- |
+| [Clojure](./clojure.yml) |
 | [Crystal](./crystal.yml) |
