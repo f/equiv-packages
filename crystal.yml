@@ -1,6 +1,6 @@
-name: "crystal"
-description: "Crystal Language"
-url: "http://crystal-lang.org"
+name: crystal
+description: Crystal Language
+url: http://crystal-lang.org
 ---
 micro_web_framework:
   - name: kemal
