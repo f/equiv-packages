@@ -45,6 +45,7 @@
 | Error Reporter            | `error_reporter`            |
 | Fake Data Generator       | `fake_data_generator`       |
 | File Deleter              | `file_deleter`              |
+| File Upload               | `file_upload`               |
 | File Watcher              | `file_watcher`              |
 | Functional Programming    | `functional_programming`    |
 | Game Framework            | `game_framework`            |
