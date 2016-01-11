@@ -1,5 +1,25 @@
 # Equiv: Inter-Language Equivalent Finder
 
+## Language Definition
+
+```yml
+name: example
+description: Example Language
+url: http://example.com
+---
+concept_name:
+  - name: String                # The name of the package
+    description: String         # The description of the package
+    instructions: String        # How to apply the concept
+    homepage: URL               # Homepage of the package/concept
+    source: URL                 # The source URL
+    github: GitHub URL          # The GitHub URL to show star count.
+    recommended: Boolean        # If the package is recommended (these will be top)
+    stdlib: Boolean             # The concept is served in stdlib of the language
+    install: String             # The command to run to install the package
+    not_recommended: Boolean    # If the library/concept not very recommended
+```
+
 ## Programming Languages
 
 | Languages |
@@ -102,18 +122,3 @@
 | WebSocket                 | `websocket`                 |
 | YAML                      | `yaml`                      |
 | ZIP Archiver              | `zip_archiver`              |
-
-## Library Definition
-
-```yml
-name: String                # The name of the package
-description: String         # The description of the package
-instructions: String        # How to apply the concept
-homepage: URL               # Homepage of the package/concept
-source: URL                 # The source URL
-github: GitHub URL          # The GitHub URL to show star count.
-recommended: Boolean        # If the package is recommended (these will be top)
-stdlib: Boolean             # The concept is served in stdlib of the language
-install: String             # The command to run to install the package
-not_recommended: Boolean    # If the library/concept not very recommended
-```
