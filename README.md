@@ -10,97 +10,96 @@
 
 ## Concepts or Categories
 
-| Concept / Category | Equiv Name |
-| ------------------ | ---------- |
-| HTTP Client | `http_client` |
-| HTTP Server | `http_server` |
-| Markdown | `markdown` |
-| YAML | `yaml` |
-| JSON | `json` |
-| Debugger | `debugger` |
-| Profiler | `profiler` |
-| Logger | `logger` |
-| Template Engine | `template_engine` |
-| Web Framework | `web_framework` |
-| Micro Web Framework | `micro_web_framework` |
-| Documentation Generator | `documentation_generator` |
-| File Watcher | `file_watcher` |
-| WebSocket | `websocket` |
-| BitCoin | `bitcoin` |
-| PDF | `pdf` |
-| Git | `git` |
-| Machine Learning | `machine_learning` |
-| GraphQL | `graphql` |
-| PostgreSQL Driver | `postgres_driver` |
-| MySQL Driver | `mysql_driver` |
-| Oracle Driver | `oracle_driver` |
-| MongoDB Driver | `mongodb_driver` |
-| Linter | `linter` |
-| Package Manager | `package_manager` |
-| Functional Programming | `functional_programming` |
-| Immutability | `immutability` |
-| HTTP Proxy | `http_proxy` |
-| Command Line Coloring | `command_line_coloring` |
+| Concept / Category        | Equiv Name                  |
+|---------------------------|-----------------------------|
+| Arduino Framework         | `arduino_framework`         |
+| Asset Compiler            | `asset_compiler`            |
+| AST                       | `ast`                       |
+| Automation                | `automation`                |
+| BDD Framework             | `bdd_framework`             |
+| Benchmark Tool            | `benchmark_tool`            |
+| BitCoin                   | `bitcoin`                   |
+| Blog Generator            | `blog_generator`            |
+| Cache Manager             | `cache_manager`             |
+| Cassandra Driver          | `cassandra_driver`          |
+| CMS                       | `cms`                       |
+| Code Formatter            | `code_formatter`            |
+| Code Quality Checker      | `code_quality_checker`      |
+| Command Line Coloring     | `command_line_coloring`     |
+| Command Line Loading      | `command_line_loading`      |
 | Command Line Progress Bar | `command_line_progress_bar` |
-| Command Line Loading | `command_line_loading` |
-| Asset Compiler | `asset_compiler` |
-| Task Manager | `task_manager` |
-| Arduino Framework | `arduino_framework` |
-| File Deleter | `file_deleter` |
-| Image Processor | `image_processor` |
-| Regular Expression | `regular_expression` |
-| Date & Time | `date_and_time` |
-| Code Formatter | `code_formatter` |
-| Random Number Generator | `random_number_generator` |
-| Random Text Generator | `random_text_generator` |
-| Mathematics | `mathematics` |
-| URL Formatting | `url_formatting` |
-| CSS Parser | `css_parser` |
-| Parser Generator | `parser_generator` |
-| CSV Parser | `csv_parser` |
-| ZIP Archiver | `zip_archiver` |
-| Port Finder | `port_finder` |
-| IP Finder | `ip_finder` |
-| ORB | `orm` |
-| Redis Client | `redis_client` |
-| Database Query Generator | `db_query_generator` |
-| TDD Framework | `tdd_framework` |
-| BDD Framework | `bdd_framework` |
-| Benchmark Tool | `benchmark_tool` |
-| JavaScript Minifier | `javascript_minifier` |
-| HTTP Authentication | `http_authentication` |
-| OAuth Server | `oauth_server` |
-| OAuth Client | `oauth_client` |
-| Mail Client | `mail_client` |
-| Mail Server | `mail_server` |
-| Environment Manager | `env_manager` |
-| NLP Framework | `nlp_framework` |
-| Process Manager | `process_manager` |
-| AST | `ast` |
-| Static Site Generator | `static_site_generator` |
-| CMS | `cms` |
-| Blog Generator | `blog_generator` |
-| GUI Development | `gui_development` |
-| Multiline Support | `multiline_support` |
-| Fake Data Generator | `fake_data_generator` |
-| Administration Interface | `administration_interface` |
-| REST API Builder | `rest_api_builder` |
-| CSS Framework | `css_framework` |
-| Permission Control | `permission_control` |
-| Automation | `automation` |
-| Cache Manager | `cache_manager` |
-| Code Quality Checker | `code_quality_checker` |
-| Concurrency | `concurrency` |
-| Data Visualization | `data_visualization` |
-| SQLite Driver | `sqlite_driver` |
-| Cassandra Driver | `cassandra_driver` |
-| I18n | `i18n` |
-| Deployment Tool | `deployment_tool` |
-| EPUB Generator | `epub_generator` |
-| Encryption | `encryption` |
-| Error Handler | `error_handler` |
-| Error Reporter | `error_reporter` |
-| Game Framework | `game_framework` |
-| Geocoding | `geocoding` |
-| HTML Parser | `html_parser` |
-| REPL | `repl` |
+| Concurrency               | `concurrency`               |
+| CSS Framework             | `css_framework`             |
+| CSS Parser                | `css_parser`                |
+| CSV Parser                | `csv_parser`                |
+| Data Visualization        | `data_visualization`        |
+| Database Query Generator  | `db_query_generator`        |
+| Date & Time               | `date_and_time`             |
+| Debugger                  | `debugger`                  |
+| Deployment Tool           | `deployment_tool`           |
+| Documentation Generator   | `documentation_generator`   |
+| Encryption                | `encryption`                |
+| Environment Manager       | `env_manager`               |
+| EPUB Generator            | `epub_generator`            |
+| Error Handler             | `error_handler`             |
+| Error Reporter            | `error_reporter`            |
+| Fake Data Generator       | `fake_data_generator`       |
+| File Deleter              | `file_deleter`              |
+| File Watcher              | `file_watcher`              |
+| Functional Programming    | `functional_programming`    |
+| Game Framework            | `game_framework`            |
+| Geocoding                 | `geocoding`                 |
+| Git                       | `git`                       |
+| GraphQL                   | `graphql`                   |
+| GUI Development           | `gui_development`           |
+| HTML Parser               | `html_parser`               |
+| HTTP Authentication       | `http_authentication`       |
+| HTTP Client               | `http_client`               |
+| HTTP Proxy                | `http_proxy`                |
+| HTTP Server               | `http_server`               |
+| I18n                      | `i18n`                      |
+| Image Processor           | `image_processor`           |
+| Immutability              | `immutability`              |
+| IP Finder                 | `ip_finder`                 |
+| JavaScript Minifier       | `javascript_minifier`       |
+| JSON                      | `json`                      |
+| Linter                    | `linter`                    |
+| Logger                    | `logger`                    |
+| Machine Learning          | `machine_learning`          |
+| Mail Client               | `mail_client`               |
+| Mail Server               | `mail_server`               |
+| Markdown                  | `markdown`                  |
+| Mathematics               | `mathematics`               |
+| Micro Web Framework       | `micro_web_framework`       |
+| MongoDB Driver            | `mongodb_driver`            |
+| Multiline Support         | `multiline_support`         |
+| MySQL Driver              | `mysql_driver`              |
+| NLP Framework             | `nlp_framework`             |
+| OAuth Client              | `oauth_client`              |
+| OAuth Server              | `oauth_server`              |
+| Oracle Driver             | `oracle_driver`             |
+| ORB                       | `orm`                       |
+| Package Manager           | `package_manager`           |
+| Parser Generator          | `parser_generator`          |
+| PDF                       | `pdf`                       |
+| Permission Control        | `permission_control`        |
+| Port Finder               | `port_finder`               |
+| PostgreSQL Driver         | `postgres_driver`           |
+| Process Manager           | `process_manager`           |
+| Profiler                  | `profiler`                  |
+| Random Number Generator   | `random_number_generator`   |
+| Random Text Generator     | `random_text_generator`     |
+| Redis Client              | `redis_client`              |
+| Regular Expression        | `regular_expression`        |
+| REPL                      | `repl`                      |
+| REST API Builder          | `rest_api_builder`          |
+| SQLite Driver             | `sqlite_driver`             |
+| Static Site Generator     | `static_site_generator`     |
+| Task Manager              | `task_manager`              |
+| TDD Framework             | `tdd_framework`             |
+| Template Engine           | `template_engine`           |
+| URL Formatting            | `url_formatting`            |
+| Web Framework             | `web_framework`             |
+| WebSocket                 | `websocket`                 |
+| YAML                      | `yaml`                      |
+| ZIP Archiver              | `zip_archiver`              |
