@@ -2,31 +2,9 @@
 
 ## Programming Languages
 
-| Language |
+| Languages |
 | -------- |
-| [Clojure](./clojure.yml) |
-| [Crystal](./crystal.yml) |
-| [Go](./go.yml) |
-| [JavaScript](./javascript.yml) |
-| [CoffeeScript](./coffeescript.yml) |
-| [CSS](./css.yml) |
-| [HTML](./html.yml) |
-| [C++](./cpp.yml) |
-| [TypeScript](./typescript.yml) |
-| [Shell](./shell.yml) |
-| [Objective-C](./obj-c.yml) |
-| [Java](./java.yml) |
-| [C](./c.yml) |
-| [Python](./python.yml) |
-| [Ruby](./ruby.yml) |
-| [PHP](./php.yml) |
-| [C#](./csharp.yml) |
-| [Rust](./rust.yml) |
-| [Haskell](./haskell.yml) |
-| [Swift](./swift.yml) |
-| [Elixir](./elixir.yml) |
-| [Perl](./perl.yml) |
-| [Erlang](./erlang.yml) |
+| [Clojure](./clojure.yml), [Crystal](./crystal.yml), [Go](./go.yml), [JavaScript](./javascript.yml), [CoffeeScript](./coffeescript.yml), [CSS](./css.yml), [HTML](./html.yml), [C++](./cpp.yml), [TypeScript](./typescript.yml), [Shell](./shell.yml), [Objective-C](./obj-c.yml), [Java](./java.yml), [C](./c.yml), [Python](./python.yml), [Ruby](./ruby.yml), [PHP](./php.yml), [C#](./csharp.yml), [Rust](./rust.yml), [Haskell](./haskell.yml), [Swift](./swift.yml), [Elixir](./elixir.yml), [Perl](./perl.yml), [Erlang](./erlang.yml) |
 
 ## Concepts or Categories
 
