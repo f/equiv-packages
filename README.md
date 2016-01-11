@@ -1,4 +1,4 @@
-# Equiv Inter-Language Equivalent Finder
+# Equiv: Inter-Language Equivalent Finder
 
 ## Programming Languages
 
